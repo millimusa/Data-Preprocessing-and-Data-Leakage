@@ -2,7 +2,7 @@
 
 Code for the paper **"Data Preprocessing and Data Leakage in Multivariate Time Series Forecasting"**, a benchmark of machine learning, deep learning and statistical forecasting models.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/millimusa/Data-Preprocessing-and-Data-Leakage/blob/main/PM25_preprocessing_study.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/millimusa/Data-Preprocessing-and-Data-Leakage/blob/main/PM25_preprocessing_study.ipynb) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23096833.svg)](https://doi.org/10.5281/zenodo.23096833)
 
 ## Overview
 
