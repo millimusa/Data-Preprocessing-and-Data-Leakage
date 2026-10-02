@@ -1,6 +1,5 @@
 # =============================================================================
-#  Data Preprocessing and Data Leakage in Multivariate Time Series Forecasting:
-#  A Benchmark of Machine Learning, Deep Learning and Statistical Models
+#  Data Preprocessing and Data Leakage in Multivariate Time Series Forecasting
 #
 #  Experiments of the paper on the Beijing PM2.5 data set
 #  (UCI Machine Learning Repository, Liang et al., 2015).

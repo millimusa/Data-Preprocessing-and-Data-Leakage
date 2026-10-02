@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Code for: Data Preprocessing and Data Leakage in Multivariate Time Series Forecasting"
+abstract: >-
+  Code and Google Colab notebook that reproduce all experiments, tables and
+  figures of the paper "Data Preprocessing and Data Leakage in Multivariate
+  Time Series Forecasting". The study benchmarks machine learning, deep
+  learning and statistical forecasting models and measures how missing value
+  imputation, anomaly handling, categorical encoding, normalization and
+  smoothing affect their accuracy on the hourly Beijing PM2.5 data set. It
+  also compares scores against the original measurements with scores against
+  the preprocessed series.
+authors:
+  - family-names: "Milli"
+    given-names: "Musa"
+    affiliation: "Department of Computer Engineering, Turkish Naval Academy, National Defence University"
+    city: "Istanbul"
+    country: "TR"
+    email: "musa.milli@msu.edu.tr"
+    orcid: "https://orcid.org/0000-0001-8323-6366"
+repository-code: "https://github.com/millimusa/Data-Preprocessing-and-Data-Leakage"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-02"
+keywords:
+  - Data Preprocessing
+  - Anomaly Detection
+  - Data Leakage
+  - Machine Learning
+  - Deep Learning
